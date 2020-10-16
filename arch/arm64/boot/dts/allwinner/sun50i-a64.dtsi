@@ -800,6 +800,11 @@
 				drive-strength = <40>;
 			};
 
+			phy_reset_pins: phy_reset_pins {
+				pins = "PD24";
+				function = "emac";
+			};
+
 			spdif_tx_pin: spdif-tx-pin {
 				pins = "PH8";
 				function = "spdif";
