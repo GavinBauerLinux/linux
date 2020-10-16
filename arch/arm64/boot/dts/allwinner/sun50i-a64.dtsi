@@ -1,43 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@GavinBa
-megous /
-linux
-forked from torvalds/linux
-
-43
-122
-
-    33.9k
-
-Code
-Pull requests
-Security
-
-    Insights
-
-linux/arch/arm64/boot/dts/allwinner/sun50i-a64.dtsi
-Ondrej Jirman Merge branch 'samuel-5.8' into orange-pi-5.8
-Latest commit 3894086 on Aug 11
-History
-22 contributors
-@mripard
-@Icenowy
-@smaeul
-@montjoie
-@wens
-@torvalds
-@Andre-ARM
-@codekipper
-@anarsoul
-@jernejsk
-@haraldg
-@arndb
-1395 lines (1237 sloc) 33.7 KB
 // SPDX-License-Identifier: (GPL-2.0+ OR MIT)
 // Copyright (C) 2016 ARM Ltd.
 // based on the Allwinner H3 dtsi:
@@ -1433,17 +1393,3 @@ History
 		};
 	};
 };
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
