@@ -769,14 +769,14 @@
 				       "PC10","PC11", "PC12", "PC13",
 				       "PC14", "PC15", "PC16";
 				function = "mmc2";
-				drive-strength = <30>;
+				drive-strength = <40>;
 				bias-pull-up;
 			};
 
 			mmc2_ds_pin: mmc2-ds-pin {
 				pins = "PC1";
 				function = "mmc2";
-				drive-strength = <30>;
+				drive-strength = <40>;
 				bias-pull-up;
 			};
 
